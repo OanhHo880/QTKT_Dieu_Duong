@@ -1,5 +1,6 @@
 import streamlit as st
 import streamlit.components.v1 as components
+st.set_page_config(layout="wide", page_title="Báo cáo Điều dưỡng")
 
 # 1. DANH SÁCH NHÂN VIÊN (Bạn có thể thêm tiếp vào đây)
 USERS = {
@@ -44,4 +45,6 @@ else:
     # THAY LINK POWER BI CỦA BẠN VÀO GIỮA DẤU NGOẶC KÉP DƯỚI ĐÂY
     power_bi_link = "https://app.powerbi.com/view?r=eyJrIjoiYWUxN2I1NzQtOTBiNy00MzYzLWFlY2YtNWVjMThjMjdiNzZiIiwidCI6IjhiZDRiMTQ5LTdmODItNDY3Ny1iNDQzLWQyNDk3NWRkOTAzMCIsImMiOjEwfQ%3D%3D"
 
+    # --- CHỈNH KÍCH THƯỚC KHUNG ---
+    # width=None và dùng CSS để ép chiều rộng 100%
     components.iframe(power_bi_link, height=800, scrolling=True)
