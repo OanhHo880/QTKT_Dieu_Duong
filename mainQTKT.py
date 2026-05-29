@@ -13,6 +13,8 @@ USERS = {
     "PC-20082": "phuongchau",
     "PC-20271": "phuongchau",
     "PC-20139": "phuongchau",
+    "PC-20102": "phuongchau",
+    "PC-20351": "phuongchau",
     "PC-10222": "phuongchau",
     "PC-10142": "phuongchau",
     "PC-00076": "phuongchau",
@@ -20,6 +22,9 @@ USERS = {
     "PC-30067": "phuongchau",
     "PC-30081": "phuongchau",
     "PC-30080": "phuongchau",
+    "PC-30562": "phuongchau",
+    "PC-30165": "phuongchau",
+    "PC-30206": "phuongchau",
     "PC-01817": "phuongchau"
 }
 
