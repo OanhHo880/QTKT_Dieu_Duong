@@ -25,6 +25,7 @@ USERS = {
     "PC-30562": "phuongchau",
     "PC-30165": "phuongchau",
     "PC-30206": "phuongchau",
+    "PC-30308": "phuongchau",
     "PC-20351": "phuongchau",
     "PC-20066": "phuongchau",
     "PC-20176": "phuongchau",
